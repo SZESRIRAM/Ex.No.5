@@ -34,5 +34,6 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+![image alt](https://github.com/SZESRIRAM/Ex.No.5/blob/main/EXP%205%20Page%201.jpg?raw=true) ![image alt](https://github.com/SZESRIRAM/Ex.No.5/blob/main/EXP%205%20Page%202.jpg?raw=true) 
 
 # RESULT: The prompt for the above said problem executed successfully
